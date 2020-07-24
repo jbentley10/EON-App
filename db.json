@@ -9,6 +9,7 @@
   "profile": {
     "name": "typicode"
   },
+  "Violation":[
 {
       "type":"line",
       "title":"Line violations",
