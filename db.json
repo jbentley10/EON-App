@@ -9,10 +9,41 @@
   "profile": {
     "name": "typicode"
   },
-  Violation:[
-    {type:'line', title:'Line violations',subtitle:'Machine 14',count:'58',countof:'violations / mo',period:'2%'},
-    {type:'employee',title:'Employees scanned',subtitle:'Total per month',count:'436',countof:'Employees scanned',secondcount:'12',secondcountof:'Alerts',period:'2%'},
-    {type:'line',title:'Line violations',subtitle:'Machine 15',count:'68',countof:'violations / mo',period:'5%'},
-    {type:'employee',title:'Employees scanned',subtitle:'Total per month',count:'236',countof:'Employees scanned',secondcount:'16',secondcountof:'Alerts',period:'3%'},
-  ]
+{
+      "type":"line",
+      "title":"Line violations",
+      "subtitle":"Machine 14",
+      "count":"58",
+      "countof":"violations / mo",
+      "period":"2%"
+   },
+   {
+      "type":"employee",
+      "title":"Employees scanned",
+      "subtitle":"Total per month",
+      "count":"436",
+      "countof":"Employees scanned",
+      "secondcount":"12",
+      "secondcountof":"Alerts",
+      "period":"2%"
+   },
+   {
+      "type":"line",
+      "title":"Line violations",
+      "subtitle":"Machine 15",
+      "count":"68",
+      "countof":"violations / mo",
+      "period":"5%"
+   },
+   {
+      "type":"employee",
+      "title":"Employees scanned",
+      "subtitle":"Total per month",
+      "count":"236",
+      "countof":"Employees scanned",
+      "secondcount":"16",
+      "secondcountof":"Alerts",
+      "period":"3%"
+   }
+]
 }
