@@ -13,7 +13,7 @@
          "type":"line",
          "title":"Line violations",
          "subtitle":"Machine 14",
-         "count":"60",
+         "count":"69",
          "countof":"violations / mo",
          "period":"2%"
       },
@@ -21,7 +21,7 @@
          "type":"employee",
          "title":"Employees scanned",
          "subtitle":"Total per month",
-         "count":"409",
+         "count":"509",
          "countof":"Employees scanned",
          "secondcount":"12",
          "secondcountof":"Alerts",
@@ -31,7 +31,7 @@
          "type":"line",
          "title":"Line violations",
          "subtitle":"Machine 15",
-         "count":"68",
+         "count":"78",
          "countof":"violations / mo",
          "period":"5%"
       },
