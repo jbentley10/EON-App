@@ -7,46 +7,66 @@
    ],
    "profile":{
       "name":"typicode"
+   }, 
+"Violation":[
+   {
+      "type":"line",
+      "title":"Line violations",
+      "subtitle":"Machine 14",
+      "count":"58",
+      "countof":"violations / mo",
+      "period":"2.4%",
+      "perioddesc":"Less than last month",
+      "svgiconstyle":"transform:scaleY(1)",
+      "iconimg":"assets/icons/arrow_downward.svg",
+      "roundclass":"roundyellow",
+      "svgcolor":"green"
    },
-   "Violation":[
-      {
-         "type":"line",
-         "title":"Risk index",
-         "subtitle":"Machine 14",
-         "count":"51",
-         "countof":"violations / mo",
-         "period":"2%"
-      },
-      {
-         "type":"employee",
-         "title":"Safety line voilation",
-         "subtitle":"Main facility",
-         "count":"58",
-         "countof":"Total alerts per month",
-         "secondcount":"12",
-         "secondcountof":"Alerts",
-         "period":"2%"
-      },
-      {
-         "type":"line",
-         "title":"Crowd violation",
-         "subtitle":"Main facility",
-         "count":"28",
-         "countof":"Total alerts per month",
-         "period":"5%"
-      },
-      {
-         "type":"employee",
-         "title":"Employees scanned",
-         "subtitle":"Main facility",
-         "count":"436",
-         "countof":"Employees scanned",
-         "secondcount":"19",
-         "secondcountof":"Alerts",
-         "period":"3%"
-      }
-   ],
-   "Alerts":[
+   {
+      "type":"employee",
+      "title":"Employe1 scanned",
+      "subtitle":"Total per month",
+      "count":"436",
+      "countof":"Employees scanned",
+      "secondcount":"12",
+      "secondcountof":"Alerts",
+      "period":"4%",
+      "perioddesc":"Less than last month",
+      "svgiconstyle":"transform:scaleY(1)",
+      "iconimg":"assets/icons/arrow_downward.svg",
+      "roundclass":"roundgreen",
+      "svgcolor":"green"
+   },
+   {
+      "type":"line",
+      "title":"Line violations",
+      "subtitle":"Machine 15",
+      "count":"68",
+      "countof":"violations / mo",
+      "period":"3%",
+      "perioddesc":"more than last month",
+      "svgiconstyle":"transform:scaleY(-1)",
+      "iconimg":"assets/icons/arrow_downward.svg",
+      "roundclass":"roundred",
+      "svgcolor":"red"
+   },
+   {
+      "type":"employee",
+      "title":"Employees scanned",
+      "subtitle":"Total per month",
+      "count":"236",
+      "countof":"Employees scanned",
+      "secondcount":"16",
+      "secondcountof":"Alerts",
+      "period":"7%",
+      "perioddesc":"more than yesterday",
+      "svgiconstyle":"transform:scaleY(-1)",
+      "iconimg":"assets/icons/arrow_downward.svg",
+      "roundclass":"roundred",
+      "svgcolor":"red"
+   }
+],
+ "Alerts":[
       {
          "title":"Safety line crossing",
          "time":"15:28:06",
