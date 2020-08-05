@@ -25,7 +25,7 @@
    {
       "type":"line",
       "title":"Safety line voilation",
-      "subtitle":"Total per month",
+      "subtitle":"Total alerts per month",
       "count":"58",
       "countof":"Total per month",
       "secondcount":"12",
@@ -53,9 +53,9 @@
    {
       "type":"employee",
       "title":"Employees scanned",
-      "subtitle":"Total alerts per month",
+      "subtitle":"Machine 13",
       "count":"236",
-      "countof":"Employees scanned",
+      "countof":"Total alerts per month",
       "secondcount":"16",
       "secondcountof":"Alerts",
       "period":"7%",
