@@ -25,9 +25,9 @@
    {
       "type":"line",
       "title":"Safety line voilation",
-      "subtitle":"Total alerts per month",
+      "subtitle":"Machine 15",
       "count":"58",
-      "countof":"Total per month",
+      "countof":"Total alerts per month",
       "secondcount":"12",
       "secondcountof":"Alerts",
       "period":"4%",
