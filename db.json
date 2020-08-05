@@ -11,7 +11,7 @@
    "Violation":[
       {
          "type":"line",
-         "title":"Risk Index",
+         "title":"Risk index",
          "subtitle":"Machine 14",
          "count":"51",
          "countof":"violations / mo",
@@ -19,9 +19,9 @@
       },
       {
          "type":"employee",
-         "title":"Employees scanned",
-         "subtitle":"Total per month",
-         "count":"509",
+         "title":"Safety line voilation",
+         "subtitle":"Main facility",
+         "count":"58",
          "countof":"Employees scanned",
          "secondcount":"12",
          "secondcountof":"Alerts",
@@ -29,19 +29,19 @@
       },
       {
          "type":"line",
-         "title":"Line violations",
-         "subtitle":"Machine 15",
-         "count":"78",
-         "countof":"violations / mo",
+         "title":"Crowd violation",
+         "subtitle":"Main facility",
+         "count":"28",
+         "countof":"Total alerts per month",
          "period":"5%"
       },
       {
          "type":"employee",
          "title":"Employees scanned",
-         "subtitle":"Total per month",
-         "count":"236",
+         "subtitle":"Main facility",
+         "count":"436",
          "countof":"Employees scanned",
-         "secondcount":"16",
+         "secondcount":"19",
          "secondcountof":"Alerts",
          "period":"3%"
       }
@@ -51,13 +51,13 @@
          "title":"Safety line crossing",
          "time":"15:28:06",
          "place":"Workstation 14",
-         "count":"3 people"
+         "count":"1 person"
       },
       {
          "title":"Crowd violations",
          "time":"15:18:06",
-         "place":"Near admin",
-         "count":"2 people"
+         "place":"Workstation 09",
+         "count":"3 people"
       },
       {
          "title":"Safety line crossing",
