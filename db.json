@@ -11,9 +11,9 @@
    "Violation":[
       {
          "type":"line",
-         "title":"Line violations",
+         "title":"Risk Index",
          "subtitle":"Machine 14",
-         "count":"69",
+         "count":"51",
          "countof":"violations / mo",
          "period":"2%"
       },
