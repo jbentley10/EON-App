@@ -21,6 +21,7 @@
       "iconimg":"assets/icons/arrow_downward.svg",
       "roundclass":"roundyellow",
       "svgcolor":"green"
+      "video":"assets/videos/1.png"
    },
    {
       "type":"line",
@@ -36,6 +37,7 @@
       "iconimg":"assets/icons/arrow_downward.svg",
       "roundclass":"roundgreen",
       "svgcolor":"green"
+      "video":"assets/videos/2.png"
    },
    {
       "type":"line",
@@ -49,6 +51,7 @@
       "iconimg":"assets/icons/arrow_downward.svg",
       "roundclass":"roundred",
       "svgcolor":"red"
+      "video":"assets/videos/3.png"
    },
    {
       "type":"employee",
@@ -64,6 +67,7 @@
       "iconimg":"assets/icons/arrow_downward.svg",
       "roundclass":"roundred",
       "svgcolor":"red"
+      "video":"assets/videos/4.png"
    }
 ],
  "Alerts":[
