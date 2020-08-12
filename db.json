@@ -25,7 +25,7 @@
    },
    {
       "type":"line",
-      "title":"Safety line voilation",
+      "title":"Safety line violation",
       "subtitle":"Machine 15",
       "count":"58",
       "countof":"Total alerts per month",
