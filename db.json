@@ -12,7 +12,7 @@
    {
       "type":"line",
       "title":"Risk index",
-      "subtitle":"Machine 14",
+      "subtitle":"Main Facility",
       "count":"51",
       "countof":"/100",
       "period":"2.4%",
@@ -26,7 +26,7 @@
    {
       "type":"line",
       "title":"Safety line violations",
-      "subtitle":"Machine 15",
+      "subtitle":"Main Facility",
       "count":"58",
       "countof":"Total alerts per month",
       "secondcount":"12",
@@ -42,7 +42,7 @@
    {
       "type":"line",
       "title":"Crowd violations",
-      "subtitle":"Machine 15",
+      "subtitle":"Main Facility",
       "count":"28",
       "countof":"/100",
       "period":"3%",
@@ -56,7 +56,7 @@
    {
       "type":"employee",
       "title":"Employees scanned",
-      "subtitle":"Machine 13",
+      "subtitle":"Main Facility",
       "count":"236",
       "countof":"Total alerts per month",
       "secondcount":"16",
