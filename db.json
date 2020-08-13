@@ -44,7 +44,7 @@
       "title":"Crowd violations",
       "subtitle":"Main Facility",
       "count":"28",
-      "countof":"/100",
+      "countof":"Total alerts per month",
       "period":"3%",
       "perioddesc":"More than last month",
       "svgiconstyle":"transform:scaleY(-1)",
