@@ -1,163 +1,160 @@
 {
-   "posts":[
-      {
-         "id":1,
-         "title":"hello"
-      }
-   ],
-   "profile":{
-      "name":"typicode"
-   }, 
-"Violation":[
-   {
-      "type":"line",
-      "title":"Risk index",
-      "subtitle":"Main Facility",
-      "count":"51",
-      "countof":"/100",
-      "period":"2.4%",
-      "perioddesc":"Less than last month",
-      "svgiconstyle":"transform:scaleY(1)",
-      "iconimg":"assets/icons/arrow_downward.svg",
-      "roundclass":"roundyellow",
-      "svgcolor":"green",
-      "video":"assets/videos/1.png"
-   },
-   {
-      "type":"line",
-      "title":"Safety line violations",
-      "subtitle":"Main Facility",
-      "count":"58",
-      "countof":"Total alerts per month",
-      "secondcount":"12",
-      "secondcountof":"Alerts",
-      "period":"4%",
-      "perioddesc":"Less than last month",
-      "svgiconstyle":"transform:scaleY(1)",
-      "iconimg":"assets/icons/arrow_downward.svg",
-      "roundclass":"roundgreen",
-      "svgcolor":"green",
-      "video":"assets/videos/2.png"
-   },
-   {
-      "type":"line",
-      "title":"Crowd violations",
-      "subtitle":"Main Facility",
-      "count":"28",
-      "countof":"Total alerts per month",
-      "period":"3%",
-      "perioddesc":"More than last month",
-      "svgiconstyle":"transform:scaleY(-1)",
-      "iconimg":"assets/icons/arrow_downward.svg",
-      "roundclass":"roundred",
-      "svgcolor":"red",
-      "video":"assets/videos/3.png"
-   },
-   {
-      "type":"employee",
-      "title":"Employees scanned",
-      "subtitle":"Main Facility",
-      "count":"236",
-      "countof":"Total alerts per month",
-      "secondcount":"19",
-      "secondcountof":"Alerts",
-      "period":"7%",
-      "perioddesc":"More than yesterday",
-      "svgiconstyle":"transform:scaleY(-1)",
-      "iconimg":"assets/icons/arrow_downward.svg",
-      "roundclass":"roundred",
-      "svgcolor":"red",
-      "video":"assets/videos/4.png"
-   }
-],
- "Alerts":[
-      {
-         "title":"Safety line crossing",
-         "time":"15:28:06",
-         "place":"Workstation 14",
-         "count":"1 person"
-      },
-      {
-         "title":"Crowd violations",
-         "time":"15:18:06",
-         "place":"Workstation 09",
-         "count":"3 people"
-      },
-      {
-         "title":"Safety line crossing",
-         "time":"14:28:06",
-         "place":"Workstation 5",
-         "count":"1 person"
-      },
-      {
-         "title":"Safety line crossing",
-         "time":"14:05:06",
-         "place":"Workstation 14",
-         "count":"3 people"
-      },
-      {
-         "title":"Crowd violations",
-         "time":"13:28:06",
-         "place":"Entrance",
-         "count":"2 people"
-      },
-      {
-         "title":"Safety line crossing",
-         "time":"13:15:06",
-         "place":"Workstation 6",
-         "count":"2 people"
-      },
-      {
-         "title":"Safety line crossing",
-         "time":"12:28:06",
-         "place":"Workstation 9",
-         "count":"2 people"
-      }
-   ],
-   "Report":{
-      "addr1":"06",
-      "addr2":"05",
-      "addr3":"06"
-   }
-},
-
-{
-"Enrollments":[
-   {
-      "id":1,
-      "name":"Dhiraj",
-      "status":true,
-      "dobDate":"02/03/1981"
-   },
-   {
-      "id":2,
-      "name":"Naresh",
-      "status":true,
-      "dobDate":"12/06/1988"
-   },
-   {
-      "id":3,
-      "name":"Kumar",
-      "status":false,
-      "dobDate":"02/05/1991"
-   },
-   {
-      "id":4,
-      "name":"Karthik",
-      "status":true,
-      "dobDate":"09/03/1981"
-   },
-   {
-      "id":5,
-      "name":"Rajesh",
-      "status":true,
-      "dobDate":"09/08/1985"
-   },
-   {
-      "id":6,
-      "name":"Prakash",
-      "status":true,
-      "dobDate":"12/09/1983"
-   }
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "Violation": [
+    {
+      "type": "line",
+      "title": "Risk index",
+      "subtitle": "Main Facility",
+      "count": "51",
+      "countof": "/100",
+      "period": "2.4%",
+      "perioddesc": "Less than last month",
+      "svgiconstyle": "transform:scaleY(1)",
+      "iconimg": "assets/icons/arrow_downward.svg",
+      "roundclass": "roundyellow",
+      "svgcolor": "green",
+      "video": "assets/videos/1.png"
+    },
+    {
+      "type": "line",
+      "title": "Safety line violations",
+      "subtitle": "Main Facility",
+      "count": "58",
+      "countof": "Total alerts per month",
+      "secondcount": "12",
+      "secondcountof": "Alerts",
+      "period": "4%",
+      "perioddesc": "Less than last month",
+      "svgiconstyle": "transform:scaleY(1)",
+      "iconimg": "assets/icons/arrow_downward.svg",
+      "roundclass": "roundgreen",
+      "svgcolor": "green",
+      "video": "assets/videos/2.png"
+    },
+    {
+      "type": "line",
+      "title": "Crowd violations",
+      "subtitle": "Main Facility",
+      "count": "28",
+      "countof": "Total alerts per month",
+      "period": "3%",
+      "perioddesc": "More than last month",
+      "svgiconstyle": "transform:scaleY(-1)",
+      "iconimg": "assets/icons/arrow_downward.svg",
+      "roundclass": "roundred",
+      "svgcolor": "red",
+      "video": "assets/videos/3.png"
+    },
+    {
+      "type": "employee",
+      "title": "Employees scanned",
+      "subtitle": "Main Facility",
+      "count": "236",
+      "countof": "Total alerts per month",
+      "secondcount": "19",
+      "secondcountof": "Alerts",
+      "period": "7%",
+      "perioddesc": "More than yesterday",
+      "svgiconstyle": "transform:scaleY(-1)",
+      "iconimg": "assets/icons/arrow_downward.svg",
+      "roundclass": "roundred",
+      "svgcolor": "red",
+      "video": "assets/videos/4.png"
+    }
+  ],
+  "Alerts": [
+    {
+      "title": "Safety line crossing",
+      "time": "15:28:06",
+      "place": "Workstation 14",
+      "count": "1 person"
+    },
+    {
+      "title": "Crowd violations",
+      "time": "15:18:06",
+      "place": "Workstation 09",
+      "count": "3 people"
+    },
+    {
+      "title": "Safety line crossing",
+      "time": "14:28:06",
+      "place": "Workstation 5",
+      "count": "1 person"
+    },
+    {
+      "title": "Safety line crossing",
+      "time": "14:05:06",
+      "place": "Workstation 14",
+      "count": "3 people"
+    },
+    {
+      "title": "Crowd violations",
+      "time": "13:28:06",
+      "place": "Entrance",
+      "count": "2 people"
+    },
+    {
+      "title": "Safety line crossing",
+      "time": "13:15:06",
+      "place": "Workstation 6",
+      "count": "2 people"
+    },
+    {
+      "title": "Safety line crossing",
+      "time": "12:28:06",
+      "place": "Workstation 9",
+      "count": "2 people"
+    }
+  ],
+  "Report": {
+    "addr1": "06",
+    "addr2": "05",
+    "addr3": "06"
+  },
+"Enrollments": [
+  {
+    "id": 1,
+    "name": "Dhiraj",
+    "status": true,
+    "dobDate": "22-03-1981"
+  },
+  {
+    "id": 2,
+    "name": "Naresh",
+    "status": true,
+    "dobDate": "12-06-1988"
+  },
+  {
+    "id": 3,
+    "name": "Kumar",
+    "status": false,
+    "dobDate": "02-05-1991"
+  },
+  {
+    "id": 4,
+    "name": "Karthik",
+    "status": true,
+    "dobDate": "09-03-1981"
+  },
+  {
+    "id": 5,
+    "name": "Rajesh",
+    "status": true,
+    "dobDate": "23-08-1985"
+  },
+  {
+    "id": 6,
+    "name": "Prakash",
+    "status": true,
+    "dobDate": "12-09-1983"
+  }
 ]
 }
