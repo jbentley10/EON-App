@@ -127,37 +127,37 @@
       "id":1,
       "name":"Dhiraj",
       "status":true,
-      "dobDate":"22-03-1981"
+      "dobDate":"02/03/1981"
    },
    {
       "id":2,
       "name":"Naresh",
       "status":true,
-      "dobDate":"12-06-1988"
+      "dobDate":"12/06/1988"
    },
    {
       "id":3,
       "name":"Kumar",
       "status":false,
-      "dobDate":"02-05-1991"
+      "dobDate":"02/05/1991"
    },
    {
       "id":4,
       "name":"Karthik",
       "status":true,
-      "dobDate":"09-03-1981"
+      "dobDate":"09/03/1981"
    },
    {
       "id":5,
       "name":"Rajesh",
       "status":true,
-      "dobDate":"23-08-1985"
+      "dobDate":"09/08/1985"
    },
    {
       "id":6,
       "name":"Prakash",
       "status":true,
-      "dobDate":"12-09-1983"
+      "dobDate":"12/09/1983"
    }
 ]
 }
